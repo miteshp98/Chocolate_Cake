@@ -64,6 +64,7 @@ button {
   border: 2.5px solid black;
   cursor: pointer;
   letter-spacing: 1px;
+  color: black;
 }
 
 button:hover {
